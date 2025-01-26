@@ -1,4 +1,4 @@
-# 👍ChatBLOGE
+# 👍ChatBLOG
 ![image](https://github.com/user-attachments/assets/d2c9844f-77c9-4660-a94f-ae5d93ccd398)
 
 # 📝 Create Blog 🤖✍️**
